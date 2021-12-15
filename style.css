@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(115, 114, 221);
+}
+
+.corpo {
+    position: relative;
+    background-color: rgb(83, 90, 112);
+    text-align: center;
+    left: 42%;
+    width: 15rem;
+    height: 33.2rem;
+    border-radius: 20%;
+    
+}
+
+.luz {
+    border-radius: 50%;
+    position: relative;
+    background-color: rgb(10, 10, 10);
+    color: crimson;
+    top:15px;
+    width: 10rem;
+    height: 10rem;
+    margin-top: 10px;
+    left: 2.5rem;
+    
+}
